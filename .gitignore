@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Exlude files
+intellij_settings.json
+report.log
+.classpath
+applicationlibraries.xml
